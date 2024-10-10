@@ -1189,7 +1189,7 @@ li, a, button {
 }
 /* contact us */
 
-/* footer */
+/* footer start */
 .footer-area{
   display: grid;
   justify-content: center;
@@ -1312,7 +1312,7 @@ footer .cus-container .contact .info li p{
 
 
 
-/* footer */
+/* footer end */
 
 
 @keyframes ghurunchokkor{
